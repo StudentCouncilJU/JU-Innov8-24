@@ -12,7 +12,7 @@ import Timer5 from '@/components/Countdown';
 import Link from 'next/link';
 
 export default function PreviewPage() {
-    const words = ["better", "cute", "beautiful", "modern"];
+    const words = ["Software", "E-Sports", "Hardware"];
 
 const router = useRouter();
 let showNav = router.query.showNav;
@@ -159,7 +159,7 @@ const scrollToSection = (sectionRef) => {
 
                                 <div className='my-2 mx-2'>
                                 <BackgroundGradient className="rounded-[22px] max-w-sm p-2 sm:p-1 bg-white bg-zinc-900">
-                                <Link href='/sports'>
+                                <Link href='/technical'>
                                 <Image src='https://i.postimg.cc/d3c9sMww/SOFTWARE.png' className="p-1 rounded-[22px] transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster' width={400} height={100}/>
                                 </Link>
                                 </BackgroundGradient>
@@ -168,7 +168,7 @@ const scrollToSection = (sectionRef) => {
 
                                 <div className='my-2 mx-2'>
                                 <BackgroundGradient className="rounded-[22px] max-w-sm p-2 sm:p-1 bg-white bg-zinc-900">
-                                <Link href='/hardware'>
+                                <Link href='/sports'>
                                 <Image src='https://i.postimg.cc/762VrPvK/ESPORTS.png' className="p-1 rounded-[22px] transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster' width={400} height={100}/>
                                 </Link>
                                 </BackgroundGradient>
@@ -177,7 +177,7 @@ const scrollToSection = (sectionRef) => {
                                 
                                <div className='my-2 mx-2'>
                                <BackgroundGradient className="rounded-[22px] max-w-sm p-2 sm:p-1 bg-white bg-zinc-900">
-                                <Link href='/technical'>
+                                <Link href='/hardware'>
                                 <Image src='https://i.postimg.cc/TPS9sLsy/HARDWARE.png' className="p-1 rounded-[22px]  transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster' width={400} height={100}/>
                                 </Link>
                                 </BackgroundGradient>
