@@ -11,6 +11,7 @@ import { BackgroundGradient } from "@/components/ui/background-gradient";
 import Timer5 from '@/components/Countdown';
 import Link from 'next/link';
 
+
 export default function PreviewPage() {
     const words = ["Software", "E-Sports", "Hardware"];
 
@@ -57,7 +58,7 @@ const scrollToSection = (sectionRef) => {
           
           </section>
 
-          <section className='h-full lg:mt-0 mt-10 lg:w-full w-[575px]' >
+          <section className='h-full lg:mt-0 mt-10 w-full' >
           <div className="bg-black bg-dot-white/[0.1] z-50">
   <div className="pointer-events-none inset-0 [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)]"></div>
   
@@ -75,7 +76,7 @@ const scrollToSection = (sectionRef) => {
       <div className="relative pt-36 ml-auto">
         <div className="lg:w-2/3 text-justify-content  mx-auto">
           <div ref={aboutRef} className="flex flex-col lg:flex-row items-center lg:items-start lg:justify-between">
-            <h1 className=" w-full md:w-[500px] lg:w-[700px] text-white text-4xl md:text-5xl xl:text-4.5xl pb-10" style={{fontFamily:"Shuri"}}>
+            <h1 className=" w-full md:w-[500px] lg:w-[700px] text-white text-3xl md:text-5xl xl:text-4.5xl pb-10" style={{fontFamily:"Shuri"}}>
               #Build&nbsp;
               <br />
               <FlipWords className='text-[#20B2AA]' words={words} />
@@ -84,13 +85,13 @@ const scrollToSection = (sectionRef) => {
             </h1>
             
              
-            <div className='lg:ml-0 ml-80 -mt-40 lg:-mt-10'>
+            <div className='lg:ml-0 ml-80 lg:w-[500px] w-48 -mt-44 lg:-mt-10'>
             <Image
                 src="https://s11.gifyu.com/images/S1QI1.gif"
                 alt="test"
                 width={300} // Width for large screens
                 height={300} // Height for large screens
-                className="w-[250px] h-[250px] lg:w-[500px] lg:h-[400px] bg-blend-difference"
+                className="w-[250px] h-[220px] lg:w-[500px] lg:h-[400px] bg-blend-difference"
                 style={{  
                   backgroundColor: "transparent",
                   opacity: "1",
@@ -100,7 +101,7 @@ const scrollToSection = (sectionRef) => {
             </div>
           </div>
           
-          <h1 className="lg:-mt-32 -mt-12 text-white text-4xl md:text-5xl xl:text-6xl " style={{fontFamily:"Shuri", letterSpacing:"5px"}}>
+          <h1 className="lg:-mt-32 -mt-12 text-white text-3xl md:text-5xl xl:text-6xl " style={{fontFamily:"Shuri", letterSpacing:"5px"}}>
             {/* <Cover className='bg-clip-text text-transparent bg-gradient-to-b from-neutral-800 via-neutral-700 to-neutral-700 dark:from-neutral-800 dark:via-white dark:to-white'> */}
               JU Innov8<span className="text-primary text-white">'24</span>
             {/* </Cover> */}
