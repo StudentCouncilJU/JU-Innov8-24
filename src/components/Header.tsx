@@ -14,7 +14,7 @@ const Header: React.FC<HeaderProps> = ({ onRegisterClick }) => {
     <>
       <header>
         <div className="relative inset-x-0 overflow-hidden">
-          <iframe
+          {/* <iframe
             className="absolute inset-0 w-full h-full object-cover lg:-mt-24 -mt-60 "
             src="https://player.vimeo.com/video/1007351684?badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1&background=1"
             allow="autoplay;"
@@ -27,9 +27,9 @@ const Header: React.FC<HeaderProps> = ({ onRegisterClick }) => {
               opacity: 0.9,
             }}
             title="goku web"
-          ></iframe>
+          ></iframe> */}
 
-          {/* <video
+          <video
                         autoPlay
                         muted
                         loop
@@ -44,7 +44,7 @@ const Header: React.FC<HeaderProps> = ({ onRegisterClick }) => {
                         }}
                     >
                         <source src="goku web.mp4" type="video/mp4" />
-                    </video> */}
+                    </video>
 
           <div className="flex items-center justify-center">
             <div
