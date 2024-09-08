@@ -11,7 +11,7 @@ export default function Technical() {
       
   
       "alias": "BGMI",
-      "image": 'https://i.postimg.cc/L644yF2Q/paintball.png',
+      "image": 'https://i.postimg.cc/CKgWd27M/BGMI.png',
       "aboutEvent": "Aim.....shoot.....conquer. Paintball is a challenging team sport that includes strategy, shooting, eliminating, and of course unlimited fun. In this game, generally two (or more) different teams gather in a specially designated area and wage a war against each other.",
       "TeamSpecification":" A team may consist of a maximum of 4+1 participants Students from different educational institutes can form a team.",
       "eventDetail": [
@@ -65,7 +65,7 @@ export default function Technical() {
     {
       "name": "VALORANT",
       "alias": "VALORANT",
-      "image": 'https://i.postimg.cc/Cx11KT2n/roadies.png',
+      "image": 'https://i.postimg.cc/X7ZMPdXW/valorant.png',
       "aboutEvent":" The Valorant LAN Event 2024 will be held in-person, bringing together top teams to compete in a structured, competitive environment.",
      "TeamSpecification":" A team may consist of 5+1 participants. Students from different educational institutes can form a team.",
      
@@ -101,7 +101,7 @@ export default function Technical() {
     {
       "name": "TEKKEN",
       "alias": "TEKKEN",
-      "image": 'https://i.postimg.cc/mDx2Vcg7/tabletennis.png',
+      "image": 'https://i.postimg.cc/P5ZgXHmF/tekken.png',
     
       "aboutEvent": "The Tekken LAN Event 2024 is a live, in-person tournament aimed at showcasing top-tier talent in Tekken.",
       "TeamSpecification":["",

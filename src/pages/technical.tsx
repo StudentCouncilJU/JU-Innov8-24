@@ -7,7 +7,7 @@ export default function Technical() {
   const events = [
     {
       "alias": "CODE-O-MANIA",
-      "image": 'https://i.postimg.cc/k4txbvYn/algovslogic.png',
+      "image": 'https://i.postimg.cc/c4VqGC8n/CODE-O-MANIA.png',
       
       "aboutEvent": ["This event will be a coding contest in which you will be judged on the basis of your knowledge of any coding language. This event will be conducted in two rounds.",
         <br/>,
@@ -48,7 +48,7 @@ export default function Technical() {
     {
       "name": "HACKATHON",
       "alias": "HACKATHON",
-      "image": 'https://i.postimg.cc/NFqR72ZR/cyberbytes.png',
+      "image": 'https://i.postimg.cc/HxSKZkgj/HACKTHON.png',
       "aboutEvent": ["	It is a 24-Hour event wherein a number of tracks will be provided to the participants and they have to build a solution around it. The primary goal of the hackathon is to foster creativity, innovation and development of new ideas.",
         <br/>,
         <br/>,
@@ -94,7 +94,7 @@ export default function Technical() {
     {
       "name": "GRAPHICON",
       "alias": "GRAPHICON",
-      "image": 'https://i.postimg.cc/zXkTKB7R/mopix.png',
+      "image": 'https://i.postimg.cc/tT2TBWJP/graphicon-poster.png',
       "aboutEvent": "It is an event which is centered around prompt designing using various Ai tools available. Designing the prompt involves formulating clear questions or statements that guide the AI’s responses towards desired outcomes.",
       "TeamSpecification":" Only single participation is allowed ",
       "eventDetail": [ 
@@ -126,7 +126,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "Codehunt",
-      "image": 'https://i.postimg.cc/nh0YbzQt/codehunt.png',
+      "image": 'https://i.postimg.cc/wM7rSYq2/CODE-HUNT.png',
       "aboutEvent": " In this event, we test your grasp of programming language through a series of questions about coding and finding an output. It is a competitive Timebound game that consists of 4 knockout levels. You have to solve a About the Event at each level using your desired programming language and reach an output. After each round, you will receive a clue of where to find your next About the Event. The level of questions after each round will increase. ",
       "TeamSpecification":" ONLY 1 Participant",
       "eventDetail": [""],
@@ -161,7 +161,7 @@ export default function Technical() {
     {
       "name": "",
       "alias": "GEN-AI QUIZ",
-      "image": 'https://i.postimg.cc/SQ69bswt/robowar-elite.png',
+      "image": 'https://i.postimg.cc/DzPRGcpr/GEN-AI-QUIZ.png',
       "aboutEvent": "The main aim is to design a machine that can fight one another as well as maintain to maintain the weight of the bot. It will be played on a knock-out basis. The weight of the bot should not exceed 15 Kg wired or wireless robot.  ArenaDimensions:  Total arena dimensions: 20X20 feet,Playing arena dimensions: 17X17 feet, Knock-out arena dimensions: 3X3 feet The base of the arena is made up of a metal sheet of width 5 mm,The walls of the arena will be made up of polycarbonate film of width 6 mm.",
       "TeamSpecification":" ONLY 1 Participant",
       "eventDetail": [

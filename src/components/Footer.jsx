@@ -20,7 +20,7 @@ const Footer = () => {
                 </div>
                 <div>
                 <p className="text-lg self-center font-bold">
-                        <a className="" href="mailto:sdo@jecrcu.edu.in">sdo@jecrcu.edu.in</a>
+                        <a className="" href="mailto:sdo@jecrcu.edu.in">studentcouncil@jecrcu.edu.in</a>
                 </p>
                 </div>
                 </div>
@@ -28,16 +28,16 @@ const Footer = () => {
                <div className='md:flex gap-16'>
                     <div className="pb-4 md:pb-0">
                         <p className="py-1 text-xl  text-white-500 ">
-                            <a className="text-white" href="tel:8949599497 tel:9782395108">Technical Secretary:+91 8949599497 || +91 9782395108</a>
+                            <a className="text-white" href="tel:8949599497">Technical Secretary:+91 8949599497</a>
                         </p>
                         <p className="py-1 text-xl  text-white-500 ">
-                        <a className="text-white" href="tel:+91 7340554253 tel: +91 7229902019">Hardware Head:+91 7340554253 || +91 7229902019 </a>
+                        <a className="text-white" href="tel:+91 8630832729 tel: +91 7999809462">Software Head:+91 8630832729 || +91 7999809462 </a>
                         </p>
                         <p className="py-1 text-xl  text-white-500 ">
-                        <a className="text-white" href="tel:+91 7494996128 +91 8299531449">E-Sports Head: +91 7494996128 || +91 8299531449</a>
+                        <a className="text-white" href="tel:+91 9988893220 tel: +91 9602022035">E-Sports Head: +91 9988893220 || +91 9602022035</a>
                         </p>  
                         <p className="py-1 text-xl  text-white-500 ">
-                        <a className="text-white" href="tel:+91 9079790744">Software Head: +91 9079790744 </a>
+                        <a className="text-white" href="tel:+91 8003204877 tel: +91 8100257789">Hardware Head: +91 8003204877 || +91 8100257789 </a>
                         </p>
                     
 
@@ -59,7 +59,7 @@ const Footer = () => {
                               Developed and Designed by:
                             </div>
                             <div className='text-white'>
-                            Devansh Verma || <Link href='https://github.com/Michael-Paul347'>Michael Paul </Link> || Saksham 
+                            <Link href='https://github.com/devasted545'>Devansh Verma </Link>|| <Link href='https://github.com/Michael-Paul347'>Michael Paul </Link> || Saksham 
                             </div>
 
                     </div>

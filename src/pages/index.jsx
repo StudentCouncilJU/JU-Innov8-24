@@ -78,7 +78,7 @@ const scrollToSection = (sectionRef) => {
             <h1 className=" w-full md:w-[500px] lg:w-[700px] text-white text-4xl md:text-5xl xl:text-4.5xl pb-10" style={{fontFamily:"Shuri"}}>
               #Build&nbsp;
               <br />
-              <FlipWords className='text-[#FCEE09]' words={words} />
+              <FlipWords className='text-[#20B2AA]' words={words} />
               <br />
               your idea<span className="text-primary text-white">'24</span>
             </h1>
@@ -107,27 +107,26 @@ const scrollToSection = (sectionRef) => {
           </h1>
           
           <h4 className="mt-8 text-white dark:text-gray-450 text-lg md:text-xl text-align:left">
-            Board on an extraordinary convergence of technology, culture, sports and media, presented with pride by JECRC University in the form of JU Rhythm '24! JU RHYTHM: Beats of Imagination is one of the biggest fests of Rajasthan. This year's spectacle transcends the conventional CYBER PUNK experience; it is a commitment to delivering unparalleled excitement and innovation resonating across the nation. 
-            JU RHYTHM is not just a fest; it is a promise of excellence and a showcase of pure energy. Prepare yourself for an unforgettable experience that goes beyond the ordinary. Join us in this unparalleled festivity where promises materialize into reality, and innovation knows no bounds.
+          JU INNOV8 Being the biggest techno festival in Rajasthan, it embodies the vibrant culture that is complemented with an incredibly creative and enjoyable side. Our three types of events—hardware, software, and esports (LAN)—involve +150 people annually around India in events like code o mania, robo soccer, BGMI, hackathon etc.These facets symbolize perfection and a launch to a journey to connect your everyday side to your most bright and engaging side at its best! Come along on this wild trip of experience that will highlight your talent to the fullest!
           </h4>
           
           <div className='flex justify-between mt-10 text-align:left'>
             <div className="flex space-x-2">
-              <svg className="w-6 h-6 text-[#FCEE09]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <svg className="w-6 h-6 text-[#20B2AA]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
                 <line x1="16" y1="2" x2="16" y2="6"></line>
                 <line x1="8" y1="2" x2="8" y2="6"></line>
                 <line x1="3" y1="10" x2="21" y2="10"></line>
               </svg>
-              <span className="text-[#FCEE09] text-lg">27-28 September</span>
+              <span className="text-[#20B2AA] text-lg">17-19 October</span>
             </div>
             
             <div className="flex space-x-2">
-              <svg className="w-6 h-6 text-[#FCEE09]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <svg className="w-6 h-6 text-[#20B2AA]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <path d="M12 2 C7.03 2 3 6.03 3 11 C3 16.55 12 22 12 22 C12 22 21 16.55 21 11 C21 6.03 16.97 2 12 2 Z"></path>
                 <circle cx="12" cy="11" r="4"></circle>
               </svg>
-              <span className="text-[#FCEE09] text-lg">JECRC UNIVERSITY</span>
+              <span className="text-[#20B2AA] text-lg">JECRC UNIVERSITY</span>
             </div>
           </div>
         </div>
@@ -161,7 +160,7 @@ const scrollToSection = (sectionRef) => {
                                 <div className='my-2 mx-2'>
                                 <BackgroundGradient className="rounded-[22px] max-w-sm p-2 sm:p-1 bg-white bg-zinc-900">
                                 <Link href='/sports'>
-                                <Image src='https://i.postimg.cc/CLxTT1jg/Sports.png' className="p-1 rounded-[22px] transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster' width={400} height={100}/>
+                                <Image src='https://i.postimg.cc/d3c9sMww/SOFTWARE.png' className="p-1 rounded-[22px] transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster' width={400} height={100}/>
                                 </Link>
                                 </BackgroundGradient>
                                 </div>
@@ -170,7 +169,7 @@ const scrollToSection = (sectionRef) => {
                                 <div className='my-2 mx-2'>
                                 <BackgroundGradient className="rounded-[22px] max-w-sm p-2 sm:p-1 bg-white bg-zinc-900">
                                 <Link href='/hardware'>
-                                <Image src='https://i.postimg.cc/h4rW5xQs/Cultural.png' className="p-1 rounded-[22px] transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster' width={400} height={100}/>
+                                <Image src='https://i.postimg.cc/762VrPvK/ESPORTS.png' className="p-1 rounded-[22px] transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster' width={400} height={100}/>
                                 </Link>
                                 </BackgroundGradient>
                                 </div>
@@ -179,7 +178,7 @@ const scrollToSection = (sectionRef) => {
                                <div className='my-2 mx-2'>
                                <BackgroundGradient className="rounded-[22px] max-w-sm p-2 sm:p-1 bg-white bg-zinc-900">
                                 <Link href='/technical'>
-                                <Image src='https://i.postimg.cc/dVhb3xHN/Technical.png' className="p-1 rounded-[22px]  transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster' width={400} height={100}/>
+                                <Image src='https://i.postimg.cc/TPS9sLsy/HARDWARE.png' className="p-1 rounded-[22px]  transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster' width={400} height={100}/>
                                 </Link>
                                 </BackgroundGradient>
                                 </div>
@@ -201,8 +200,8 @@ const scrollToSection = (sectionRef) => {
                 <div className="md:px-12 xl:px-6">         
                  <div className="relative pt-12 ">
                     <div className="lg:w-2/3 text-center  mx-auto">
-                        <h1 className=" text-white text-4xl md:text-6xl xl:text-7xl" style={{fontFamily:"Shuri",letterSpacing:"5px"}}>
-                          Trailer JU Innov8 2024
+                        <h1 className=" text-white text-4xl md:text-6xl xl:text-6xl" style={{fontFamily:"Shuri",letterSpacing:"5px"}}>
+                          JU Innov8'23 Aftermovie
                           </h1>
 
                     </div>

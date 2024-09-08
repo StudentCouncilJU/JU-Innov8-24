@@ -11,7 +11,7 @@ export default function Technical() {
 
   
       "alias": "ROBOWAR(15 KGS)",
-      "image": 'https://i.postimg.cc/R0XyN467/mono-strokes.png',
+      "image": 'https://i.postimg.cc/T2HR4Rdz/ROBO-WAR-15-KG.png',
       "aboutEvent":": The main aim is to design a machine that can fight one another as well as  to maintain the weight of the bot. It will be played on a knock-out basis. The weight of the bot should not exceed 15 Kg wireless robot.",
       
       "eventDetail": [
@@ -48,7 +48,7 @@ export default function Technical() {
     {
       "name": "ROBOWAR(8KG)",
       "alias": "ROBOWAR(8KG)",
-      "image": 'https://i.postimg.cc/BZrSqBGq/rap-trap.png',
+      "image": 'https://i.postimg.cc/T2HR4Rdz/ROBO-WAR-15-KG.png',
       "aboutEvent": ": The main aim is to design a machine that can fight one another as well as to maintain the weight of the bot. It will be played on a knock-out basis. The weight of the bot should not exceed 8 Kg wireless robot.",
       "TeamSpecification":" A team may consist of a maximum of 6 participants and a minimum of 1 participant. Students from different educational institutes can form a team.",
       "eventDetail": [""],
@@ -81,10 +81,10 @@ export default function Technical() {
     
     {
       "name": "ROBO-SOCCER",
-      "alias": "ROBO-SOCCER(8KG)",
-      "image": 'https://i.postimg.cc/021vg5pj/rhytmic-relay-poetry.png',
+      "alias": "ROBO-SOCCER",
+      "image": 'https://i.postimg.cc/1XTsnK7m/ROBO-SOCCER.png',
       "aboutEvent": "Design a manually controlled robot wireless that can play soccer.",
-      "TeamSpecification":" A team may consist of a maximum of 6 participants and a minimum of 1 participant. Students from different educational institutes can form a team.",
+      "TeamSpecification":" A team may consist of a maximum of 2 participants and a minimum of 1 participant. Students from different educational institutes can form a team.",
       "eventDetail": [
       ""
       ],
@@ -114,81 +114,81 @@ export default function Technical() {
         "time": ""
       }
     },
-//     {
-//       "name": "",
-//       "alias": "Rhythmic relay",
-//       "image": 'https://i.postimg.cc/021vg5pj/rhytmic-relay-poetry.png',
-//       "aboutEvent": "Unlock the power of words in our Poetry Corner, where eloquence meets emotion. Immerse yourself in the rhythmic beauty of verse, as players weave linguistic tapestries to captivate hearts and minds.",
-//       "TeamSpecification":" ONLY 1 Participant",
-//       "eventDetail": [
-//       ""
-//       ],
-//       "rules": [
-//         	"Round 1: In this round every participant will get an opportunity to give their best poetry performance. The time of performance will be 3 to 5 min.",
-// 	        "Round 2(final round): In this round every participant will get some words, based on that participants have to create a poem on the spot.",
-// 	        "Use of offensive language or inappropriate content is strictly prohibited.",
-// 	        "Keep the poetry suitable for a diverse audience.",
-// 	        "Dress in accordance to theme will be appreciated.",
-// 	        "Strictly adhere to the specified time limits for each performance.",
-// 	         "Violation of rules may lead to disqualification.",
-//           "The decision of the judges and event organisers is final.",
+    {
+      "name": "Ardhara",
+      "alias": "Ardhara",
+      "image": 'https://i.postimg.cc/X7RnnQyx/ARDHARA.png',
+      "aboutEvent": "Unlock the power of words in our Poetry Corner, where eloquence meets emotion. Immerse yourself in the rhythmic beauty of verse, as players weave linguistic tapestries to captivate hearts and minds.",
+      "TeamSpecification":" ONLY 1 Participant",
+      "eventDetail": [
+      ""
+      ],
+      "rules": [
+        	"Round 1: In this round every participant will get an opportunity to give their best poetry performance. The time of performance will be 3 to 5 min.",
+	        "Round 2(final round): In this round every participant will get some words, based on that participants have to create a poem on the spot.",
+	        "Use of offensive language or inappropriate content is strictly prohibited.",
+	        "Keep the poetry suitable for a diverse audience.",
+	        "Dress in accordance to theme will be appreciated.",
+	        "Strictly adhere to the specified time limits for each performance.",
+	         "Violation of rules may lead to disqualification.",
+          "The decision of the judges and event organisers is final.",
 
 
        
-//       ],
-//       "regulations":[
-//         "Top 10 teams will showcase their prototypes developed and will get a chance to showcase their prototype in front of all the judges and the developers. Each team will get a maximum of 7 minutes to present their prototype in front of the judges. The judges will be asking questions about the prototype so developed If any team is found copying a prototype that has already been published or any unfair means, the team will be disqualified on the spot. Rules are subjected to change prior to the briefing session. Decision made by the judges will be final.",
-//           <br/>,
-//         "JUDGING CRITERIA",
-//         "The participants will be judged on the basis of their delivery, structure, evidence, creativity on their prototype model. There will also be a Q/A session with the judges in which the prototype will be presented and related question will be asked.",
-//         "Top 10 teams will be given 10 minutes to present in-front of the judges out of which 7 minutes will be for presenting the prototype and 3 minutes for the presentation",
-// ,
-//       ],
-//       "coordinators":{"name":'Krati Gupta: 9549692639',"name2":'Devansh	: 9680770891'},
-//       "schedule": {
-//         "day": "",
-//         "venue": "",
-//         "time": ""
-//       }
-//     },
-//     {
-//       "name": "",
-//       "alias": "Rhythmic relay",
-//       "image": 'https://i.postimg.cc/021vg5pj/rhytmic-relay-poetry.png',
-//       "aboutEvent": "Unlock the power of words in our Poetry Corner, where eloquence meets emotion. Immerse yourself in the rhythmic beauty of verse, as players weave linguistic tapestries to captivate hearts and minds.",
-//       "TeamSpecification":" ONLY 1 Participant",
-//       "eventDetail": [
-//       ""
-//       ],
-//       "rules": [
-//         	"Round 1: In this round every participant will get an opportunity to give their best poetry performance. The time of performance will be 3 to 5 min.",
-// 	        "Round 2(final round): In this round every participant will get some words, based on that participants have to create a poem on the spot.",
-// 	        "Use of offensive language or inappropriate content is strictly prohibited.",
-// 	        "Keep the poetry suitable for a diverse audience.",
-// 	        "Dress in accordance to theme will be appreciated.",
-// 	        "Strictly adhere to the specified time limits for each performance.",
-// 	         "Violation of rules may lead to disqualification.",
-//           "The decision of the judges and event organisers is final.",
+      ],
+      "regulations":[
+        "Top 10 teams will showcase their prototypes developed and will get a chance to showcase their prototype in front of all the judges and the developers. Each team will get a maximum of 7 minutes to present their prototype in front of the judges. The judges will be asking questions about the prototype so developed If any team is found copying a prototype that has already been published or any unfair means, the team will be disqualified on the spot. Rules are subjected to change prior to the briefing session. Decision made by the judges will be final.",
+          <br/>,
+        "JUDGING CRITERIA",
+        "The participants will be judged on the basis of their delivery, structure, evidence, creativity on their prototype model. There will also be a Q/A session with the judges in which the prototype will be presented and related question will be asked.",
+        "Top 10 teams will be given 10 minutes to present in-front of the judges out of which 7 minutes will be for presenting the prototype and 3 minutes for the presentation",
+,
+      ],
+      "coordinators":{"name":'Krati Gupta: 9549692639',"name2":'Devansh	: 9680770891'},
+      "schedule": {
+        "day": "",
+        "venue": "",
+        "time": ""
+      }
+    },
+    {
+      "name": "Go Kart",
+      "alias": "Go Kart",
+      "image": 'https://i.postimg.cc/X7RnnQyx/ARDHARA.png',
+      "aboutEvent": "Unlock the power of words in our Poetry Corner, where eloquence meets emotion. Immerse yourself in the rhythmic beauty of verse, as players weave linguistic tapestries to captivate hearts and minds.",
+      "TeamSpecification":" ONLY 1 Participant",
+      "eventDetail": [
+      ""
+      ],
+      "rules": [
+        	"Round 1: In this round every participant will get an opportunity to give their best poetry performance. The time of performance will be 3 to 5 min.",
+	        "Round 2(final round): In this round every participant will get some words, based on that participants have to create a poem on the spot.",
+	        "Use of offensive language or inappropriate content is strictly prohibited.",
+	        "Keep the poetry suitable for a diverse audience.",
+	        "Dress in accordance to theme will be appreciated.",
+	        "Strictly adhere to the specified time limits for each performance.",
+	         "Violation of rules may lead to disqualification.",
+          "The decision of the judges and event organisers is final.",
 
 
        
-//       ],
+      ],
 
-//       "regulations":[
-//         "Top 10 teams will showcase their prototypes developed and will get a chance to showcase their prototype in front of all the judges and the developers. Each team will get a maximum of 7 minutes to present their prototype in front of the judges. The judges will be asking questions about the prototype so developed If any team is found copying a prototype that has already been published or any unfair means, the team will be disqualified on the spot. Rules are subjected to change prior to the briefing session. Decision made by the judges will be final.",
-//           <br/>,
-//         "JUDGING CRITERIA",
-//         "The participants will be judged on the basis of their delivery, structure, evidence, creativity on their prototype model. There will also be a Q/A session with the judges in which the prototype will be presented and related question will be asked.",
-//         "Top 10 teams will be given 10 minutes to present in-front of the judges out of which 7 minutes will be for presenting the prototype and 3 minutes for the presentation",
-// ,
-//       ],
-//       "coordinators":{"name":'Krati Gupta: 9549692639',"name2":'Devansh	: 9680770891'},
-//       "schedule": {
-//         "day": "",
-//         "venue": "",
-//         "time": ""
-//       }
-//     },
+      "regulations":[
+        "Top 10 teams will showcase their prototypes developed and will get a chance to showcase their prototype in front of all the judges and the developers. Each team will get a maximum of 7 minutes to present their prototype in front of the judges. The judges will be asking questions about the prototype so developed If any team is found copying a prototype that has already been published or any unfair means, the team will be disqualified on the spot. Rules are subjected to change prior to the briefing session. Decision made by the judges will be final.",
+          <br/>,
+        "JUDGING CRITERIA",
+        "The participants will be judged on the basis of their delivery, structure, evidence, creativity on their prototype model. There will also be a Q/A session with the judges in which the prototype will be presented and related question will be asked.",
+        "Top 10 teams will be given 10 minutes to present in-front of the judges out of which 7 minutes will be for presenting the prototype and 3 minutes for the presentation",
+,
+      ],
+      "coordinators":{"name":'Krati Gupta: 9549692639',"name2":'Devansh	: 9680770891'},
+      "schedule": {
+        "day": "",
+        "venue": "",
+        "time": ""
+      }
+    },
 
   ]
 
