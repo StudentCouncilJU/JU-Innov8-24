@@ -11,8 +11,8 @@ export default function Technical() {
 
   
       "alias": "ROBOWAR(15 KGS)",
-      "image": 'https://i.postimg.cc/T2HR4Rdz/ROBO-WAR-15-KG.png',
-      "aboutEvent":"The main aim is to design a machine that can fight one another as well as  to maintain the weight of the bot. It will be played on a knock-out basis. The weight of the bot should not exceed 15 Kg wireless robot.",
+      "image": 'https://i.postimg.cc/g0dtkHBR/robowar-15.png',
+      "aboutEvent":"The main aim is to design a machine in the form of bot which can handle it's own weight and can fight with another bot.",
       
       "eventDetail": [
        ""
@@ -30,12 +30,12 @@ export default function Technical() {
        
       ],
       "regulations":[
-        "Top 10 teams will showcase their prototypes developed and will get a chance to showcase their prototype in front of all the judges and the developers. Each team will get a maximum of 7 minutes to present their prototype in front of the judges. The judges will be asking questions about the prototype so developed If any team is found copying a prototype that has already been published or any unfair means, the team will be disqualified on the spot. Rules are subjected to change prior to the briefing session. Decision made by the judges will be final.",
+        // "Top 10 teams will showcase their prototypes developed and will get a chance to showcase their prototype in front of all the judges and the developers. Each team will get a maximum of 7 minutes to present their prototype in front of the judges. The judges will be asking questions about the prototype so developed If any team is found copying a prototype that has already been published or any unfair means, the team will be disqualified on the spot. Rules are subjected to change prior to the briefing session. Decision made by the judges will be final.",
           <br/>,
-        "JUDGING CRITERIA",
-        "The participants will be judged on the basis of their delivery, structure, evidence, creativity on their prototype model. There will also be a Q/A session with the judges in which the prototype will be presented and related question will be asked.",
-        "Top 10 teams will be given 10 minutes to present in-front of the judges out of which 7 minutes will be for presenting the prototype and 3 minutes for the presentation",
-,
+        "BOT SPECIFICATIONS",
+        "1. The bot should not exceed more than 15 kg.",      
+        "2. Tolerence of only 5% is allowed.",
+        "3. The bot should be truly wireless.",
       ],
      
       "coordinators":{"name":'Meenakshi Lahoti:7014793340',"name2":'Aditya Garg: 9079171380'},
@@ -48,8 +48,8 @@ export default function Technical() {
     {
       "name": "ROBOWAR(8KG)",
       "alias": "ROBOWAR(8KG)",
-      "image": 'https://i.postimg.cc/T2HR4Rdz/ROBO-WAR-15-KG.png',
-      "aboutEvent": ": The main aim is to design a machine that can fight one another as well as to maintain the weight of the bot. It will be played on a knock-out basis. The weight of the bot should not exceed 8 Kg wireless robot.",
+      "image": 'https://i.postimg.cc/9fp84wvk/robowar-8.png',
+      "aboutEvent": ": The main is to design a machine in the form of bot which can handle it's own weight and can fight with another bot.",
       "TeamSpecification":" A team may consist of a maximum of 6 participants and a minimum of 1 participant. Students from different educational institutes can form a team.",
       "eventDetail": [""],
       "rules": [
@@ -64,8 +64,10 @@ export default function Technical() {
       ],
       "regulations":[
         "BOT SPECIFICATIONS :",
-        " Tollerence 5-10 percentage",
-        "Battery 24volts",
+        "1. The bot should not exceed more than 8 Kg.",
+        "2. Tolerance of only 5% is allowed.",
+        "3. The bot should be truly wireless.",
+        "4. Battery 24volts",
 
 
       ],
@@ -77,13 +79,57 @@ export default function Technical() {
         "time": ""
       }
     },
-   
+    {
+      "name": "ROBOWAR(3 lbs)",
+      "alias": "ROBOWAR(3 lbs)",
+      "image": 'https://i.postimg.cc/G2gXKw3J/robowar-3lbs.png',
+      "aboutEvent": ":The main aim is to design a machine that can fight one another as well as maintain to maintain the weight of the bot. It will be played on a knock-out basis. The weight of the bot should not exceed 1.37kg wireless robot.",
+      "TeamSpecification":"A team may consist of a maximum of 4 participants and a minimum of 1 participant. Students from different educational institutes can form a team",
+      "eventDetail": [""],
+      "rules": [
+        "The competition will be played on a knock-out basis.",
+       	"The maximum duration of each round will be 2 minutes. Any team that is not ready at the time specified will be disqualified from the competition automatically.",
+        "No AC power supply will be provided for the bots, participants are requested to use only a DC power supply.",
+        "Changes in rules, if any will be highlighted on the website and notified to the registered teams.",
+        "If the bot is unable to displace from its position for more than 10 sec then the bot would be disqualified from the particular round.",
+        "The organizers reserve the right to change any or all of the above rules as they deem fit.",
+        "The machine would be checked for its safety before the competition and would be Discarded it found unsate for other participants and spectators.",
+        "Violation of any of the above rules will lead to disqualification.",
+        
+       
+      ],
+      "regulations":[
+        "DIMENSIONS:",
+        "1. Total arena dimensions: 20X20 feet",
+        "2. Playing arena dimensions: 17X17 feet",
+        "3. Knock-out arena dimensions: 3X3 feet",
+        "The base of the arena is made up of a metal sheet of width 5 mm.",
+        "The walls of the arena will be made up of polycarbonate film of width 6 mm.",
+          <br/>,
+
+        "BOT SPECIFICATIONS :",
+        "1. The 3-pound category bot must be able to fit into a 30 x 30 x 24-inch box.",
+        "2. The machine can use of maximum of 3S at any given point in time for any particular component of the robot.",
+        "3. The machine can be operated only with a wireless remote.",
+        "4. IC engine and electric motor can be used to actuate the machine.",
+        "5. Ready-made bases of machines would not be allowed (Readymade wheels, motor, battery, RF Remote, switch, and wires can be used.",
+
+
+      ],
+      "coordinators":{"name":'Harshit Sinha: 9799043706',"name2":'Prayushman Kaushal: 8824483045'},
+     
+      "schedule": {
+        "day": "",
+        "venue": "",
+        "time": ""
+      }
+    },
     
     {
       "name": "ROBO-SOCCER",
       "alias": "ROBO-SOCCER",
-      "image": 'https://i.postimg.cc/1XTsnK7m/ROBO-SOCCER.png',
-      "aboutEvent": "Design a manually controlled robot wireless that can play soccer.",
+      "image": 'https://i.postimg.cc/fy3Bg2J4/robosoccer.png',
+      "aboutEvent": "The main aim is to design a machine in the form of bot which can play soccer.",
       "TeamSpecification":" A team may consist of a maximum of 2 participants and a minimum of 1 participant. Students from different educational institutes can form a team.",
       "eventDetail": [
       ""
@@ -102,9 +148,9 @@ export default function Technical() {
       ],
       "regulations":[
         "BOT SPECIFICATIONS :",
-        " Tollerence 5 percent",
-        "Battery 24volts",
-        "Weight 5kgs",
+        "1. The bot should not exceed more than 5kg.",
+        "2. Tolerence of only 5% is allowed.",
+        "3. The bot can be both wired and wireless.",
         "Dimentions : 30*30*20",
       ],
       "coordinators":{"name":'Krati Gupta: 9549692639',"name2":'Devansh	: 9680770891'},
@@ -115,33 +161,36 @@ export default function Technical() {
       }
     },
     {
-      "name": "Ardhara",
-      "alias": "Ardhara",
-      "image": 'https://i.postimg.cc/X7RnnQyx/ARDHARA.png',
+      "name": "Robo Rush",
+      "alias": "Robo Rush",
+      "image": 'https://i.postimg.cc/brK3XxtZ/roborush.png',
       "aboutEvent": "Unlock the power of words in our Poetry Corner, where eloquence meets emotion. Immerse yourself in the rhythmic beauty of verse, as players weave linguistic tapestries to captivate hearts and minds.",
-      "TeamSpecification":" ONLY 1 Participant",
+      "TeamSpecification":
+      "A team may consist of a maximum of 2 participants and minimum 1 participant. Students from different educational institutes can form a team. Each team must have a team leader who must be present when called upon by the organizers.",
+      
       "eventDetail": [
       ""
       ],
       "rules": [
-        	"Round 1: In this round every participant will get an opportunity to give their best poetry performance. The time of performance will be 3 to 5 min.",
-	        "Round 2(final round): In this round every participant will get some words, based on that participants have to create a poem on the spot.",
-	        "Use of offensive language or inappropriate content is strictly prohibited.",
-	        "Keep the poetry suitable for a diverse audience.",
-	        "Dress in accordance to theme will be appreciated.",
-	        "Strictly adhere to the specified time limits for each performance.",
-	         "Violation of rules may lead to disqualification.",
-          "The decision of the judges and event organisers is final.",
+        	"If the bot catches a RED ball, it earns 10 points.",
+	        "If the bot catches a GREEN ball, it earns 20 points.",
+	        "If the bot catches a BLUE ball, it earns 30 points.",
+	        "There will be a bonus 50 points ball which will be included in middle of the game There will be 2 flags each consists of 20 points.",
 
 
        
       ],
       "regulations":[
-        "Top 10 teams will showcase their prototypes developed and will get a chance to showcase their prototype in front of all the judges and the developers. Each team will get a maximum of 7 minutes to present their prototype in front of the judges. The judges will be asking questions about the prototype so developed If any team is found copying a prototype that has already been published or any unfair means, the team will be disqualified on the spot. Rules are subjected to change prior to the briefing session. Decision made by the judges will be final.",
-          <br/>,
-        "JUDGING CRITERIA",
-        "The participants will be judged on the basis of their delivery, structure, evidence, creativity on their prototype model. There will also be a Q/A session with the judges in which the prototype will be presented and related question will be asked.",
-        "Top 10 teams will be given 10 minutes to present in-front of the judges out of which 7 minutes will be for presenting the prototype and 3 minutes for the presentation",
+        // "Top 10 teams will showcase their prototypes developed and will get a chance to showcase their prototype in front of all the judges and the developers. Each team will get a maximum of 7 minutes to present their prototype in front of the judges. The judges will be asking questions about the prototype so developed If any team is found copying a prototype that has already been published or any unfair means, the team will be disqualified on the spot. Rules are subjected to change prior to the briefing session. Decision made by the judges will be final.",
+        
+        "BOT SPECIFICATION",
+        "Width - 250mm max",
+        "Length - 250mm max",
+        "Height - 250mm max",
+        "1. Max weight of bot must not exceed 4kg (excluded battery weight).",
+        "2. NO kind of AC power will be provided or allowed at the event.",
+        "3. Each team is allowed to have only one bot.",
+        "4. There must not be a hole on side of the mechanism attached to catch the ball and release it.",
 ,
       ],
       "coordinators":{"name":'Krati Gupta: 9549692639',"name2":'Devansh	: 9680770891'},
@@ -152,34 +201,38 @@ export default function Technical() {
       }
     },
     {
-      "name": "Go Kart",
-      "alias": "Go Kart",
-      "image": 'https://i.postimg.cc/X7RnnQyx/ARDHARA.png',
-      "aboutEvent": "Unlock the power of words in our Poetry Corner, where eloquence meets emotion. Immerse yourself in the rhythmic beauty of verse, as players weave linguistic tapestries to captivate hearts and minds.",
-      "TeamSpecification":" ONLY 1 Participant",
+      "name": "Techno Kart",
+      "alias": "Techno Kart",
+      "image": 'https://i.postimg.cc/cHLDf4WL/technokart.png',
+      "aboutEvent": "There must not be a hole on side of the mechanism attached to catch the ball and release it.",
+      "TeamSpecification":
+      "3-5 members per team.",
+      
       "eventDetail": [
       ""
       ],
       "rules": [
-        	"Round 1: In this round every participant will get an opportunity to give their best poetry performance. The time of performance will be 3 to 5 min.",
-	        "Round 2(final round): In this round every participant will get some words, based on that participants have to create a poem on the spot.",
-	        "Use of offensive language or inappropriate content is strictly prohibited.",
-	        "Keep the poetry suitable for a diverse audience.",
-	        "Dress in accordance to theme will be appreciated.",
-	        "Strictly adhere to the specified time limits for each performance.",
-	         "Violation of rules may lead to disqualification.",
-          "The decision of the judges and event organisers is final.",
-
-
-       
       ],
 
       "regulations":[
-        "Top 10 teams will showcase their prototypes developed and will get a chance to showcase their prototype in front of all the judges and the developers. Each team will get a maximum of 7 minutes to present their prototype in front of the judges. The judges will be asking questions about the prototype so developed If any team is found copying a prototype that has already been published or any unfair means, the team will be disqualified on the spot. Rules are subjected to change prior to the briefing session. Decision made by the judges will be final.",
+        "There will be two rounds-",
+        "Round 1- The vehicles, in this round, are supposed to run on the track alone and are also supposed to collect the flags that will be present amidst the track in a certain period of time. The teams who are able to qualify this, will move forward in the next round.",
+        "Round 2- Two vehicles will face off in this round, together. A proper race will be happening and the losing team will be disqualified on spot. Teams winning, will keep qualifying further. Ultimately, the best vehicle will be considered as the winner.",
           <br/>,
-        "JUDGING CRITERIA",
-        "The participants will be judged on the basis of their delivery, structure, evidence, creativity on their prototype model. There will also be a Q/A session with the judges in which the prototype will be presented and related question will be asked.",
-        "Top 10 teams will be given 10 minutes to present in-front of the judges out of which 7 minutes will be for presenting the prototype and 3 minutes for the presentation",
+        "Roles",
+        "1. Driver(s): One or two team members responsible for driving the go-kart.",
+        "2. Mechanic/Technician: One member to handle any technical issues and ensure the go-kart is in optimal condition.",
+        "3. Strategist/Planner: One member to plan the racing strategy and manage team coordination.",
+        "4. Support/Backup: Additional members can help with logistics, coordination, and support during the event.",
+          <br/>,
+        "Experience Level: No prior professional go-karting experience required, but some familiarity with kart handling and basic mechanical knowledge is beneficial",
+          <br/>,
+        "Technical Specifications: Ensure your go-kart meets any specific technical regulations set by the event organizers (e.g., engine size, weight limits).",
+          <br/>,
+        "Equipment Requirements",
+        "1. All safety gear (helmet, gloves, racing suit) must be worn by drivers.",
+        "2. Teams must use the provided go-karts; modifications may be restricted.",
+
 ,
       ],
       "coordinators":{"name":'Krati Gupta: 9549692639',"name2":'Devansh	: 9680770891'},

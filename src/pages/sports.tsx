@@ -12,8 +12,8 @@ export default function Technical() {
   
       "alias": "BGMI",
       "image": 'https://i.postimg.cc/CKgWd27M/BGMI.png',
-      "aboutEvent": "Aim.....shoot.....conquer. Paintball is a challenging team sport that includes strategy, shooting, eliminating, and of course unlimited fun. In this game, generally two (or more) different teams gather in a specially designated area and wage a war against each other.",
-      "TeamSpecification":" A team may consist of a maximum of 4+1 participants Students from different educational institutes can form a team.",
+      "aboutEvent": "The BGMI LAN Event 2024 will be held in-person, bringing together top teams to compete in a structured, competitive environment.",
+      "TeamSpecification":" A team may consist of a maximum of 4+1 participants. Students from different educational institutes can form a team.",
       "eventDetail": [
         // "Maximum 5 members || 2000/team"
       ],
@@ -55,7 +55,7 @@ export default function Technical() {
 
       ],
      
-      "coordinators":{"name":'Arpit Meena : 8905572157',"name2":'Harnam Singh : 7357304047',"name3":'Bhawani Singh Rajawat : 7851074822'},
+      "coordinators":{"name":'Arpit Mina : 8905572157',"name2":'Harnam Singh : 7357304047',"name3":'Bhawani Singh Rajawat : 7851074822'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -82,7 +82,7 @@ export default function Technical() {
       "regulations":[
         "JUDGING CRITERIA",
         "It will be a group stage event, winner will move to next round and loser will be eliminated",
-        "A Swiftplay Custom will be played between two teams of 5 players each.",
+        "An Unrated Custom will be played between two teams of 5 players each.",
         "Finals will be a game of Unrated and the team which wins will be the complete winner.",
         <br/>,
         "QUALIFICATION ROUND",
@@ -120,12 +120,14 @@ export default function Technical() {
     "In the event of a disconnection, the round will be forfeited by the player who disconnected unless otherwise ruled by the organizers.",
     "All disputes should be raised with the tournament staff. The decision of the staff is final.",
     "Finals will be conducted in a best-of-five format. The grand final will reset if the player from the loser's bracket wins the first set",
+    "Spamming power moves are probihited.",
+    "Character customization will be off.",
       ],
       "regulations":[
-        "QUALIFICATION ROUND",
-        "TEAMS HAVE TO QUALIFY THE ONLINE ROUNDS THAT WILL BE 7 DAYS PRIER THE LAN EVENT. TEAMS WILL BE INFORMED A WEEK PRIER FROM THE QUALIFICATON ROUND. ONLY QUALIFIED TEAM WILL BE PERMITTED TO SIT IN THE MAIN LAN EVENT.",
+        // "QUALIFICATION ROUND",
+        // "TEAMS HAVE TO QUALIFY THE ONLINE ROUNDS THAT WILL BE 7 DAYS PRIER THE LAN EVENT. TEAMS WILL BE INFORMED A WEEK PRIER FROM THE QUALIFICATON ROUND. ONLY QUALIFIED TEAM WILL BE PERMITTED TO SIT IN THE MAIN LAN EVENT.",
       ],
-      "coordinators":{"name":'Shivesh Patidar: 7426966255',"name2":'Raj Trivedi: 9587260753',"name3":'none: 0000'},
+      "coordinators":{"name":'Aadil Khan:  9128924050',"name2":'Kunal Mathur: 8949489937'},
       "schedule": {
         "day": "",
         "venue": "",

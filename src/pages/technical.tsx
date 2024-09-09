@@ -32,7 +32,8 @@ export default function Technical() {
   "This round comprises basic programming questions. This round will have 10 questions which can be answered in either C++ or python.",
   <br/>,
   "ROUND 2 :",
-  "1 hour will be given to answer all the questions.",
+  "The round comprises of basic programming questions. This round will have 10 questions which can be answered in any language except python.",
+  "1.5 hours will be given to answer all the questions.",
   "Winners will be selected on the basis of number of questions solved, logic used and speed.",
   "If you are caught using any unfair means you will be straight away disqualified.",
       ],
@@ -49,7 +50,7 @@ export default function Technical() {
       "name": "HACKATHON",
       "alias": "HACKATHON",
       "image": 'https://i.postimg.cc/HxSKZkgj/HACKTHON.png',
-      "aboutEvent": ["	It is a 24-Hour event wherein a number of tracks will be provided to the participants and they have to build a solution around it. The primary goal of the hackathon is to foster creativity, innovation and development of new ideas.",
+      "aboutEvent": ["It is a 24-Hour event wherein a number of tracks will be provided to the participants and they have to build a solution around it. The primary goal of the hackathon is to foster creativity, innovation and development of new ideas.",
         <br/>,
         <br/>,
         "TRACKS :",
@@ -95,7 +96,7 @@ export default function Technical() {
       "name": "GRAPHICON",
       "alias": "GRAPHICON",
       "image": 'https://i.postimg.cc/tT2TBWJP/graphicon-poster.png',
-      "aboutEvent": "It is an event which is centered around prompt designing using various Ai tools available. Designing the prompt involves formulating clear questions or statements that guide the AI’s responses towards desired outcomes.",
+      "aboutEvent": "This exciting competition is the perfect platform to showcase your creativity, innovation, and design skills. Whether you're a seasoned designer or a budding artist, this event encourages participants to push the boundaries of visual communication. Through various challenges, you'll get to express your unique style, explore design trends, and create impactful visuals. Get ready to turn your imagination into stunning graphics and compete with fellow designers for the top spot!",
       "TeamSpecification":" Only single participation is allowed ",
       "eventDetail": [ 
         "",
@@ -124,26 +125,22 @@ export default function Technical() {
       }
     },
     {
-      "name": "",
-      "alias": "Codehunt",
+      "name": "CODE HUNT",
+      "alias": "CODE HUNT",
       "image": 'https://i.postimg.cc/wM7rSYq2/CODE-HUNT.png',
-      "aboutEvent": " In this event, we test your grasp of programming language through a series of questions about coding and finding an output. It is a competitive Timebound game that consists of 4 knockout levels. You have to solve a About the Event at each level using your desired programming language and reach an output. After each round, you will receive a clue of where to find your next About the Event. The level of questions after each round will increase. ",
-      "TeamSpecification":" ONLY 1 Participant",
+      "aboutEvent": "In this event we test your grasp on programming language through a series of questions about coding and finding an output. It is a competitive Time Bound game which consists of 4 knockout levels. In each level you have to solve a problem statement using your desired programming language and reach an output. After each round you will receive a clue of where to find your next problem statement. Level of questions after each round will increase.",
+      "TeamSpecification":"A team may consist of maximum 2 participants and minimum 1 Participant.",
       "eventDetail": [""],
       "rules": [
-        "	Each team comprises one player solving the code and another retrieving an envelope from the specified location.",
-        "Envelope seals must be opened in front of the coordinator; a broken seal results in disqualification.",
-        "The judge's decision is final, non-negotiable, and not open to review or appeal.",
-        "Participants can code in any language and on any compiler of their choice.",
-        	"Use of unfair means, including Google or AI to steal or copy code, leads to disqualification.",
-        	"Rules are subject to change before the final briefing session.",
-        	"Code solvers and envelope retrievers make up the team, each with distinct roles.",
-        	"Strict adherence to envelope seal integrity, finality of judge's decisions, coding language/compiler flexibility, and fair play is crucial. Rules may be revised before the final briefing.",
+        "One of the team players will solve the code and the other is meant to run to the location in the code and bring back the envelope. The Seal of the Envelope must be opened in front of the coordinator. If the seal is found broken then you will be disqualified. The decision of the judge is final and not subject to review or appeal. You can code in any language and on any compiler. Use of any unfair means will lead to disqualification including use of Google or any AI to steal or copy code. Rules are subjected to change before the final briefing session.",
         
       ],
       "regulations":[
-        "QUALIFICATION ROUND",
-        "TEAMS HAVE TO QUALIFY THE ONLINE ROUNDS THAT WILL BE 7 DAYS PRIER THE LAN EVENT. TEAMS WILL BE INFORMED A WEEK PRIER FROM THE QUALIFICATON ROUND. ONLY QUALIFIED TEAM WILL BE PERMITTED TO SIT IN THE MAIN LAN EVENT.",
+        "REQUIREMENTS:",
+        "You need to bring your own laptop and internet connection.",
+        <br/>,
+        "JUDGING CRITERIA",
+        "The participants will be judged on the basis of their delivery, structure, evidence, creativity on their prototype model. There will also be a Q/A session with the judges in which the prototype will be presented and related question will be asked.",
       ],
       
       
@@ -159,31 +156,31 @@ export default function Technical() {
       }
     },
     {
-      "name": "",
+      "name": "GEN-AI QUIZ",
       "alias": "GEN-AI QUIZ",
       "image": 'https://i.postimg.cc/DzPRGcpr/GEN-AI-QUIZ.png',
-      "aboutEvent": "The main aim is to design a machine that can fight one another as well as maintain to maintain the weight of the bot. It will be played on a knock-out basis. The weight of the bot should not exceed 15 Kg wired or wireless robot.  ArenaDimensions:  Total arena dimensions: 20X20 feet,Playing arena dimensions: 17X17 feet, Knock-out arena dimensions: 3X3 feet The base of the arena is made up of a metal sheet of width 5 mm,The walls of the arena will be made up of polycarbonate film of width 6 mm.",
-      "TeamSpecification":" ONLY 1 Participant",
+      "aboutEvent": "This interactive quiz will challenge your knowledge on AI concepts, tools, and innovations, while sparking creativity and curiosity.",
+      "TeamSpecification":"Each team will have a minimum of 1 maximum of 3 players. Each Team will have one leader who will answer questions by discussing with his/her team.",
       "eventDetail": [
         "",
       
         
       ],
       "rules": [
-        	"The competition will be played on a knock-out basis.",
-	        "The maximum duration of each round will be 2 minutes. Any team that is not ready at the time specified will be disqualified from the competition automatically",
-	        "If the bot is unable to displace from its position for more than 30 sec then the bot would be disqualified from the particular round.",
-	        "No AC power supply will be provided for the bots, participants are requested to use only a DC power supply.",
-	        "The machine would be checked for its safety before the competition and would be Discarded if found unsafe for other participants and spectators",
-	        "The organizers reserve the right to change any or all of the above rules as they deem fit",
-         "	Changes in rules, if any will be highlighted on the website and notified to the registered teams.",
-       	"Violation of any of the above rules will lead to disqualification.",
+        	"Each participant is allowed only one attempt. Multiple attempts or use of multiple devices/accounts is strictly prohibited.",
+	        "Ensure a stable internet connection before starting the quiz. Any disconnection issues will not warrant an extension or retake.",
+	        "The use of books, mobile phones, or external assistance during the quiz is strictly prohibited.",
+          "Once an answer is submitted, you cannot go back to change it. Make sure to review your responses before moving on.",
+          "Any participant found using unfair means or violating the rules will be immediately disqualified from the quiz.",
+	        
 
         
       ],
       "regulations":[
-        "QUALIFICATION ROUND",
-        "TEAMS HAVE TO QUALIFY THE ONLINE ROUNDS THAT WILL BE 7 DAYS PRIER THE LAN EVENT. TEAMS WILL BE INFORMED A WEEK PRIER FROM THE QUALIFICATON ROUND. ONLY QUALIFIED TEAM WILL BE PERMITTED TO SIT IN THE MAIN LAN EVENT.",
+        "ROUNDS:",
+        "The event will consist of 2 rounds.",
+        "ROUND 1 - MCQs",
+	      "ROUND 2 - Consists of 2 sub parts (buzzer round, rapid fire)",
       ],
       
 
