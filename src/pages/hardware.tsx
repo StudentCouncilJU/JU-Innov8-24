@@ -12,7 +12,7 @@ export default function Technical() {
   
       "alias": "ROBOWAR(15 KGS)",
       "image": 'https://i.postimg.cc/T2HR4Rdz/ROBO-WAR-15-KG.png',
-      "aboutEvent":": The main aim is to design a machine that can fight one another as well as  to maintain the weight of the bot. It will be played on a knock-out basis. The weight of the bot should not exceed 15 Kg wireless robot.",
+      "aboutEvent":"The main aim is to design a machine that can fight one another as well as  to maintain the weight of the bot. It will be played on a knock-out basis. The weight of the bot should not exceed 15 Kg wireless robot.",
       
       "eventDetail": [
        ""
