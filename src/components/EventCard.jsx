@@ -2,6 +2,7 @@ import React,{useState} from 'react'
 
 import EventDetails from '../components/EventDetailsModal'
 import Image from 'next/image';
+import Link from 'next/link';
 export default function EventsCard(props) {
 
     const [showModal,setShowModal]=useState(false)
@@ -10,11 +11,14 @@ export default function EventsCard(props) {
           <div className='flex-shrink-0'>
             <p className='text-white text-center text-3xl' style={{fontFamily:"Shuri"}}>{props.title}</p>
             <Image className="p-2 lg:ml-0 mx-auto" src={props.image} alt={props.alias} width={400} height={100} />
-            <button className='button-85 team2 text-xl border-2 px-2 rounded-3xl mb-4 my-8'>
-              <a href='https://rzp.io/l/innov8'>
-                Register Now
-              </a>
-            </button>
+            <button className="p-[3px] relative">
+                    <div className="absolute inset-0 bg-gradient-to-r from-[#380036] to-[#0CBABA] rounded-lg" />
+                    <div className="px-12 py-4 bg-black rounded-[6px] text-2xl relative group transition duration-200 text-white hover:bg-transparent">
+                      <Link href="https://rzp.io/l/innov8" download>
+                      Register Now
+                      </Link>
+                    </div>
+                  </button>
           </div>
           <div className='flex flex-col p-4 text-center lg:ml-0 mx-auto xl:mx-auto'>
             
