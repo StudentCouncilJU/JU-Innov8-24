@@ -5,7 +5,7 @@ export default function Document() {
     <Html lang="en">
       <Head>
      
-      <link rel="icon" type="favicon" href="https://i.postimg.cc/SKMYzprh/rhythm-logo-20240111-165215-0000.png"/>
+      <link rel="icon" type="favicon" href="innov8 logo.png"/>
         </Head>
       <body className='absolute md:relative' >
         <Main />

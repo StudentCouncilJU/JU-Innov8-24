@@ -59,7 +59,7 @@ const Timer5 = () => {
   }, []);
   const startCountDown = useCallback(() => {
     // Example: Set the target date and time to September 27th at 12:00:00 AM
-    const countDownDate = new Date(new Date().getFullYear(), 8, 27, 0, 0, 0);
+    const countDownDate = new Date(new Date().getFullYear(), 9, 17, 0, 0, 0);
   
     setInterval(() => {
       getTimeDifference(countDownDate.getTime());
