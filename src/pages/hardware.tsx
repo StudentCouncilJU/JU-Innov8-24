@@ -193,7 +193,7 @@ export default function Technical() {
         "4. There must not be a hole on side of the mechanism attached to catch the ball and release it.",
 ,
       ],
-      "coordinators":{"name":'Daksh : 9812772394',"name2":'Yamini	: '},
+      "coordinators":{"name":'Daksh : 9812772394',"name2":'Yamini	: 9999999999'},
       "schedule": {
         "day": "",
         "venue": "",
