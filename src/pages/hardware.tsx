@@ -38,7 +38,7 @@ export default function Technical() {
         "3. The bot should be truly wireless.",
       ],
      
-      "coordinators":{"name":'Meenakshi Lahoti:7014793340',"name2":'Aditya Garg: 9079171380'},
+      "coordinators":{"name":'Abhinav Singh : 9694448585',"name2":'Anish Kushwaha : 9602284203'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -71,7 +71,7 @@ export default function Technical() {
 
 
       ],
-      "coordinators":{"name":'Harshit Sinha: 9799043706',"name2":'Prayushman Kaushal: 8824483045'},
+      "coordinators":{"name":'Abhinav Singh : 9694448585',"name2":'Anish Kushwaha : 9602284203'},
      
       "schedule": {
         "day": "",
@@ -116,7 +116,7 @@ export default function Technical() {
 
 
       ],
-      "coordinators":{"name":'Harshit Sinha: 9799043706',"name2":'Prayushman Kaushal: 8824483045'},
+      "coordinators":{"name":'Priyanshi Bharadwaj : 8003150294',"name2":'Amit Jain : 8100257789'},
      
       "schedule": {
         "day": "",
@@ -153,7 +153,7 @@ export default function Technical() {
         "3. The bot can be both wired and wireless.",
         "Dimentions : 30*30*20",
       ],
-      "coordinators":{"name":'Krati Gupta: 9549692639',"name2":'Devansh	: 9680770891'},
+      "coordinators":{"name":'Deepak : 8949990567',"name2":'Samarth	: 9461937659'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -164,7 +164,7 @@ export default function Technical() {
       "name": "Robo Rush",
       "alias": "Robo Rush",
       "image": 'https://i.postimg.cc/brK3XxtZ/roborush.png',
-      "aboutEvent": "Unlock the power of words in our Poetry Corner, where eloquence meets emotion. Immerse yourself in the rhythmic beauty of verse, as players weave linguistic tapestries to captivate hearts and minds.",
+      "aboutEvent": "The flow of the event is that participants have to bring the bots (i.e., wireless bots) according to the dimensions that can be operated manually. The bot that completes the given specific task is considered as the winner.",
       "TeamSpecification":
       "A team may consist of a maximum of 2 participants and minimum 1 participant. Students from different educational institutes can form a team. Each team must have a team leader who must be present when called upon by the organizers.",
       
@@ -193,7 +193,7 @@ export default function Technical() {
         "4. There must not be a hole on side of the mechanism attached to catch the ball and release it.",
 ,
       ],
-      "coordinators":{"name":'Krati Gupta: 9549692639',"name2":'Devansh	: 9680770891'},
+      "coordinators":{"name":'Daksh : 9812772394',"name2":'Yamini	: '},
       "schedule": {
         "day": "",
         "venue": "",
@@ -204,7 +204,7 @@ export default function Technical() {
       "name": "Techno Kart",
       "alias": "Techno Kart",
       "image": 'https://i.postimg.cc/cHLDf4WL/technokart.png',
-      "aboutEvent": "There must not be a hole on side of the mechanism attached to catch the ball and release it.",
+      "aboutEvent": "A motor sport where you need a open wheeled, four wheeled vehicle which will participate in the race.",
       "TeamSpecification":
       "3-5 members per team.",
       
@@ -235,7 +235,7 @@ export default function Technical() {
 
 ,
       ],
-      "coordinators":{"name":'Krati Gupta: 9549692639',"name2":'Devansh	: 9680770891'},
+      "coordinators":{"name":'Shivani Agarwal : 9680673793',"name2":'Lakshay : 7976413148'},
       "schedule": {
         "day": "",
         "venue": "",

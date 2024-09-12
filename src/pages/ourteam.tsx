@@ -90,7 +90,13 @@ const teamDetails = [
 
     
     },
-  
+    {
+        name: 'Kavya Pareek',
+        image: 'https://i.postimg.cc/wj2gFcMV/Untitled-design-2.png',
+       year: "Logistics Head",
+
+    
+    },
     {
         name: 'Daksh Nagar',
         image: 'https://i.postimg.cc/tTRSDw4C/Daksh-Nagar.png',

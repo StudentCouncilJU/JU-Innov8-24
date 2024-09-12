@@ -79,15 +79,15 @@ const scrollToSection = (sectionRef) => {
             <h1 className=" w-full md:w-[500px] lg:w-[700px] text-white text-3xl md:text-5xl xl:text-4.5xl pb-10" style={{fontFamily:"Shuri"}}>
               #Build&nbsp;
               <br />
-              <FlipWords className='text-[#20B2AA]' words={words} />
-              <br />
               your idea<span className="text-primary text-white">'24</span>
+              <br />
+              <FlipWords className='text-[#20B2AA]' words={words} />
             </h1>
             
              
             <div className='lg:ml-0 ml-80 lg:w-[500px] w-48 -mt-44 lg:-mt-10'>
             <Image
-                src="https://s11.gifyu.com/images/S1QI1.gif"
+                src="https://i.postimg.cc/rmFKCpng/92ce6ce3-d751-4200-a2bc-474690245883-8.png"
                 alt="test"
                 width={300} // Width for large screens
                 height={300} // Height for large screens

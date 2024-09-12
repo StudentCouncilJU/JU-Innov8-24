@@ -38,7 +38,7 @@ export default function Technical() {
   "If you are caught using any unfair means you will be straight away disqualified.",
       ],
       
-      "coordinators":{"name":'Abhay Tiwari : 7084361698',"name2":'Jayshikha Shekhawat : 8854923966'}, 
+      "coordinators":{"name":'Abhay : 7084361698',"name2":'Jayshikha : 8854923966'}, 
       "schedule": {
         "day": "",
         "venue": "",
@@ -84,7 +84,7 @@ export default function Technical() {
       ],
       
      
-      "coordinators":{"name":'Rahul Singhal : 6375996411',"name2":'Leena : 6376088760'},
+      "coordinators":{"name":'Rahul : 6375996411',"name2":'Leena : 6376088760'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -116,7 +116,7 @@ export default function Technical() {
         
          
         
-      "coordinators":{"name":'Shashwat jain:9009519718' ,"name2":' Saksham:8619964199'},
+      "coordinators":{"name":'Piyush : 8209455601' ,"name2":'Akash : 8077511720'},
       
       "schedule": {
         "day": "",
@@ -146,8 +146,8 @@ export default function Technical() {
       
       "coordinators": {
         
-           "name": "Ayushi:7014881298",  
-           "name2": "Sneha:8000254863", 
+           "name": "Kuldeep : 9929959895",  
+           "name2": "Aryan : 9509925846", 
       },
       "schedule": {
         "day": "",
@@ -186,8 +186,8 @@ export default function Technical() {
 
       "coordinators": {
        
-           "name": "Geetanjali:9311675823" ,
-           "name2": "Charvi:9739934322" 
+           "name": "Anant : 9548279755" ,
+           "name2": "Raghav : 8306679551" 
         
       
         

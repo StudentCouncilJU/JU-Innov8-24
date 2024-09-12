@@ -55,7 +55,7 @@ export default function Technical() {
 
       ],
      
-      "coordinators":{"name":'Arpit Mina : 8905572157',"name2":'Harnam Singh : 7357304047',"name3":'Bhawani Singh Rajawat : 7851074822'},
+      "coordinators":{"name":'Arpit Mina : 8905572157',"name2":'Harman Singh : 7357304047',"name3":'Bhawani Singh Rajawat : 7851074822'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -86,7 +86,7 @@ export default function Technical() {
         "Finals will be a game of Unrated and the team which wins will be the complete winner.",
         <br/>,
         "QUALIFICATION ROUND",
-        "TEAMS HAVE TO QUALIFY THE ONLINE ROUNDS THAT WILL BE 7 DAYS PRIER THE LAN EVENT. TEAMS WILL BE INFORMED A WEEK PRIER FROM THE QUALIFICATON ROUND. ONLY QUALIFIED TEAM WILL BE PERMITTED TO SIT IN THE MAIN LAN EVENT.",
+        "TEAMS HAVE TO QUALIFY THE ONLINE ROUNDS THAT WILL BE 7 DAYS PRIOR THE LAN EVENT. TEAMS WILL BE INFORMED A WEEK PRIOR FROM THE QUALIFICATON ROUND. ONLY QUALIFIED TEAM WILL BE PERMITTED TO SIT IN THE MAIN LAN EVENT.",
         
 
       ],
