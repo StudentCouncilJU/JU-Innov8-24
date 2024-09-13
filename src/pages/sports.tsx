@@ -104,8 +104,11 @@ export default function Technical() {
       "image": 'https://i.postimg.cc/P5ZgXHmF/tekken.png',
     
       "aboutEvent": "The Tekken LAN Event 2024 is a live, in-person tournament aimed at showcasing top-tier talent in Tekken.",
-      "TeamSpecification":["",
+      "TeamSpecification":["Individual Entry",
+        <br/>,
+        <br/>,
       "MATCH FORMAT",
+      <br/>,
 "The tournament will utilize a double-elimination format.",
 "All matches except for the finals will be best-of-three games. The finals will be best-of-five games.",
       ],

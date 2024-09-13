@@ -133,7 +133,7 @@ const teamDetails = [
 
     },
     {
-        name: 'Pradyuman',
+        name: 'Pradhyuman',
         image:'https://i.postimg.cc/QtMmc7fF/Pradyuman-Shrivastava.png',
        year: "Operations Head",
 

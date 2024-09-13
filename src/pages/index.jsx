@@ -108,7 +108,8 @@ const scrollToSection = (sectionRef) => {
           </h1>
           
           <h4 className="mt-8 text-white dark:text-gray-450 text-lg md:text-xl text-align:left">
-          JU INNOV8 Being the biggest techno festival in Rajasthan, it embodies the vibrant culture that is complemented with an incredibly creative and enjoyable side. Our three types of events—hardware, software, and esports (LAN)—involve +150 people annually around India in events like code o mania, robo soccer, BGMI, hackathon etc.These facets symbolize perfection and a launch to a journey to connect your everyday side to your most bright and engaging side at its best! Come along on this wild trip of experience that will highlight your talent to the fullest!
+          Immerse yourself in a hub of technological innovation at INNOV8, where the brightest minds in Software, Hardware, and eSports converge to compete and collaborate. From crafting next-gen software solutions to engineering disruptive hardware prototypes and mastering the world of competitive gaming, INNOV8 offers the ideal platform to demonstrate your expertise.
+          With a staggering ₹5 Lakh prize pool, it's more than a competition—it's your gateway to turning groundbreaking ideas into reality. Last year, INNOV8 saw participation from over 150 teams and attracted more than 8,000 attendees from across India. Be a part of this nationwide tech revolution and shape the future of innovation!
           </h4>
           
           <div className='flex justify-between mt-10 text-align:left'>

@@ -29,7 +29,6 @@ export default function Technical() {
   "This round will test your knowledge in basic concepts of the programming language.",
   "Top 15 participant will be qualified for round 2.",
   "5 points will be awarded for each correct answer and 1 will be deducted for every wrong answer. No points will be deducted for unattempted questions.",
-  "This round comprises basic programming questions. This round will have 10 questions which can be answered in either C++ or python.",
   <br/>,
   "ROUND 2 :",
   "The round comprises of basic programming questions. This round will have 10 questions which can be answered in any language except python.",
@@ -132,15 +131,19 @@ export default function Technical() {
       "TeamSpecification":"A team may consist of maximum 2 participants and minimum 1 Participant.",
       "eventDetail": [""],
       "rules": [
-        "One of the team players will solve the code and the other is meant to run to the location in the code and bring back the envelope. The Seal of the Envelope must be opened in front of the coordinator. If the seal is found broken then you will be disqualified. The decision of the judge is final and not subject to review or appeal. You can code in any language and on any compiler. Use of any unfair means will lead to disqualification including use of Google or any AI to steal or copy code. Rules are subjected to change before the final briefing session.",
+        "One of the team player will solve the code and the other is meant to run to the location in the code and bring back the envelope.",
+        "The Seal of the Envelope must be opened in front of the coordinator. If the seal is found broken then you will be disqualified.",
+        "The decision of judge is final and not subject to review or appeal. You can code in any language and on any compiler EXCEPT PYTHON.",
+        "Use of any unfair means will lead to disqualification including use of Google or any AI to steal or copy code.",
+        "Rules are subjected to change before the final briefing session.",
         
       ],
       "regulations":[
         "REQUIREMENTS:",
-        "You need to bring your own laptop and internet connection.",
+        "You need to bring your own laptop (with offline compiler installed). No sort of internet will be provided and phones will be kept for security.",
         <br/>,
-        "JUDGING CRITERIA",
-        "The participants will be judged on the basis of their delivery, structure, evidence, creativity on their prototype model. There will also be a Q/A session with the judges in which the prototype will be presented and related question will be asked.",
+        // "JUDGING CRITERIA",
+        // "The participants will be judged on the basis of their delivery, structure, evidence, creativity on their prototype model. There will also be a Q/A session with the judges in which the prototype will be presented and related question will be asked.",
       ],
       
       
@@ -180,7 +183,7 @@ export default function Technical() {
         "ROUNDS:",
         "The event will consist of 2 rounds.",
         "ROUND 1 - MCQs",
-	      "ROUND 2 - Consists of 2 sub parts (buzzer round, rapid fire)",
+	      "ROUND 2 -  Consists of 3 sub parts (buzzer round, rapid fire and passing round).",
       ],
       
 
