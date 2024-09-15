@@ -59,7 +59,7 @@ const Footer = () => {
                               Developed and Designed by:
                             </div>
                             <div className='text-white'>
-                            <Link href='https://www.linkedin.com/in/devanshverma545/'>Devansh Verma </Link>|| <Link href='https://github.com/Michael-Paul347'>Michael Paul </Link> || Saksham 
+                            <Link href='https://www.linkedin.com/in/devanshverma545/'>Devansh Verma </Link>||<Link href='https://github.com/Michael-Paul347'>Michael Paul </Link>|| <Link href='https://www.linkedin.com/in/sakshamsaraogi/'>Saksham Saraogi</Link> 
                             </div>
 
                     </div>

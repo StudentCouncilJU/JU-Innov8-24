@@ -71,22 +71,22 @@ export default function Technical() {
      
       "eventDetail": [""],
       "rules": [
+        "The event will be held in 4 stages - Online Qualifiers-> LAN Quarter-Finals -> LAN Semi-Finals -> LAN Finals.",
+        "All disputes should be raised with the Organizers and the decision of the organizer will be final.",
+        "Participants are requested to carry their own Gaming pc/Laptop.",
         "Teams are responsible for their own technical issues (hardware/internet).",
-        " In case a player gets disconnected from a match, the Squad is allowed to continue to play the match at a disadvantage.",
-        " Using hacks and any other 3rd party software/tool will result in immediate disqualification.",
-        " The event will be held in knock-out rounds.",
-        "More information will be provided at the venue. It will be an on-the-spot activity.",
-        "In the event of a disconnection, the round will be forfeited by the player who disconnected unless otherwise ruled by the organizers.",
-        " All disputes should be raised with the tournament staff. The decision of the staff is final.",
+        "Using hacks and any other 3rd party software/tool will result in immediate disqualification.",
+        "Teams must have a minimum of four players in lobby at the time of the match, else the Team who does fails will forfeit the matches.",
+        // "click HERE for the Detailed Rulebook.",
+        
       ],
       "regulations":[
         "JUDGING CRITERIA",
-        "It will be a group stage event, winner will move to next round and loser will be eliminated",
-        "An Unrated Custom will be played between two teams of 5 players each.",
-        "Finals will be a game of Unrated and the team which wins will be the complete winner.",
+        "Online qualifiers, Quarter-finals and Finals will follow a single elimination (BO1) format and Finals will be a best of three (BO3) game.",
+        "Game mode will be STANDARD.",
         <br/>,
         "QUALIFICATION ROUND",
-        "TEAMS HAVE TO QUALIFY THE ONLINE ROUNDS THAT WILL BE 7 DAYS PRIOR THE LAN EVENT. TEAMS WILL BE INFORMED A WEEK PRIOR FROM THE QUALIFICATON ROUND. ONLY QUALIFIED TEAM WILL BE PERMITTED TO SIT IN THE MAIN LAN EVENT.",
+        "TEAMS HAVE TO QUALIFY THE ONLINE ROUNDS THAT WILL BE HELD 7 DAYS PRIOR THE LAN EVENT. TEAMS WILL BE INFORMED IN ADVANCE ABOUT ONLINE QUALIFIERS. ONLY QUALIFIED TEAM WILL BE INVITED FOR MAIN LAN EVENT.",
         
 
       ],

@@ -162,7 +162,7 @@ const scrollToSection = (sectionRef) => {
                                 <div className='my-2 mx-2'>
                                 <BackgroundGradient className="rounded-[22px] max-w-sm p-2 sm:p-1 bg-white bg-zinc-900">
                                 <Link href='/technical'>
-                                <Image src='https://i.postimg.cc/d3c9sMww/SOFTWARE.png' className="p-1 rounded-[22px] transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster' width={400} height={100}/>
+                                <Image src='https://i.postimg.cc/HsLVSPQJ/SOFTWARE.png' className="p-1 rounded-[22px] transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster' width={400} height={100}/>
                                 </Link>
                                 </BackgroundGradient>
                                 </div>
@@ -171,7 +171,7 @@ const scrollToSection = (sectionRef) => {
                                 <div className='my-2 mx-2'>
                                 <BackgroundGradient className="rounded-[22px] max-w-sm p-2 sm:p-1 bg-white bg-zinc-900">
                                 <Link href='/sports'>
-                                <Image src='https://i.postimg.cc/762VrPvK/ESPORTS.png' className="p-1 rounded-[22px] transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster' width={400} height={100}/>
+                                <Image src='https://i.postimg.cc/pVCmJtnb/ESPORTS.png' className="p-1 rounded-[22px] transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster' width={400} height={100}/>
                                 </Link>
                                 </BackgroundGradient>
                                 </div>
@@ -180,7 +180,7 @@ const scrollToSection = (sectionRef) => {
                                <div className='my-2 mx-2'>
                                <BackgroundGradient className="rounded-[22px] max-w-sm p-2 sm:p-1 bg-white bg-zinc-900">
                                 <Link href='/hardware'>
-                                <Image src='https://i.postimg.cc/TPS9sLsy/HARDWARE.png' className="p-1 rounded-[22px]  transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster' width={400} height={100}/>
+                                <Image src='https://i.postimg.cc/HsLVSPQJ/SOFTWARE.png' className="p-1 rounded-[22px]  transition-transform duration-300 transform hover:scale-105 cursor-pointer w-72" alt='Technical Poster' width={400} height={100}/>
                                 </Link>
                                 </BackgroundGradient>
                                 </div>
