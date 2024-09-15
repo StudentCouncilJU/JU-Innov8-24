@@ -11,7 +11,7 @@ export default function Technical() {
 
   
       "alias": "ROBOWAR(15 KGS)",
-      "image": 'https://i.postimg.cc/g0dtkHBR/robowar-15.png',
+      "image": 'https://i.postimg.cc/XNDJmYH3/ROBOWAR-15.png',
       "aboutEvent":"The main aim is to design a machine in the form of bot which can handle it's own weight and can fight with another bot.",
       
       "eventDetail": [
@@ -48,7 +48,7 @@ export default function Technical() {
     {
       "name": "ROBOWAR(8KG)",
       "alias": "ROBOWAR(8KG)",
-      "image": 'https://i.postimg.cc/9fp84wvk/robowar-8.png',
+      "image": 'https://i.postimg.cc/yx58ZLgW/ROBOWAR-8.png',
       "aboutEvent": ": The main is to design a machine in the form of bot which can handle it's own weight and can fight with another bot.",
       "TeamSpecification":" A team may consist of a maximum of 6 participants and a minimum of 1 participant. Students from different educational institutes can form a team.",
       "eventDetail": [""],
@@ -71,7 +71,7 @@ export default function Technical() {
 
 
       ],
-      "coordinators":{"name":'Abhinav Singh : 9694448585',"name2":'Anish Kushwaha : 9602284203'},
+      "coordinators":{"name":'Raj : 8000495747',"name2":'Anish Kushwaha : 9602284203'},
      
       "schedule": {
         "day": "",
@@ -82,7 +82,7 @@ export default function Technical() {
     {
       "name": "ROBOWAR(3 lbs)",
       "alias": "ROBOWAR(3 lbs)",
-      "image": 'https://i.postimg.cc/G2gXKw3J/robowar-3lbs.png',
+      "image": 'https://i.postimg.cc/Fz1KzMK2/ROBOWAR-3.png',
       "aboutEvent": ":The main aim is to design a machine that can fight one another as well as maintain to maintain the weight of the bot. It will be played on a knock-out basis. The weight of the bot should not exceed 1.37kg wireless robot.",
       "TeamSpecification":"A team may consist of a maximum of 4 participants and a minimum of 1 participant. Students from different educational institutes can form a team",
       "eventDetail": [""],
@@ -116,7 +116,7 @@ export default function Technical() {
 
 
       ],
-      "coordinators":{"name":'Priyanshi Bharadwaj : 8003150294',"name2":'Amit Jain : 8100257789'},
+      "coordinators":{"name":'Anish Kushwaha : 9602284203',"name2":'Karan : 7248894458'},
      
       "schedule": {
         "day": "",
@@ -128,7 +128,7 @@ export default function Technical() {
     {
       "name": "ROBO-SOCCER",
       "alias": "ROBO-SOCCER",
-      "image": 'https://i.postimg.cc/fy3Bg2J4/robosoccer.png',
+      "image": 'https://i.postimg.cc/50s0x4fB/ROBO-SOCCER.png',
       "aboutEvent": "The main aim is to design a machine in the form of bot which can play soccer.",
       "TeamSpecification":" A team may consist of a maximum of 2 participants and a minimum of 1 participant. Students from different educational institutes can form a team.",
       "eventDetail": [
@@ -163,7 +163,7 @@ export default function Technical() {
     {
       "name": "Robo Rush",
       "alias": "Robo Rush",
-      "image": 'https://i.postimg.cc/brK3XxtZ/roborush.png',
+      "image": 'https://i.postimg.cc/R0QhD18b/ROBO-RUSH.png',
       "aboutEvent": "The flow of the event is that participants have to bring the bots (i.e., wireless bots) according to the dimensions that can be operated manually. The bot that completes the given specific task is considered as the winner.",
       "TeamSpecification":
       "A team may consist of a maximum of 2 participants and minimum 1 participant. Students from different educational institutes can form a team. Each team must have a team leader who must be present when called upon by the organizers.",
@@ -193,7 +193,7 @@ export default function Technical() {
         "4. There must not be a hole on side of the mechanism attached to catch the ball and release it.",
 ,
       ],
-      "coordinators":{"name":'Daksh : 9812772394',"name2":'Yamini	: 9999999999'},
+      "coordinators":{"name":'Daksh : 9812772394',"name2":'Siddhika	: 7877237663'},
       "schedule": {
         "day": "",
         "venue": "",
@@ -203,7 +203,7 @@ export default function Technical() {
     {
       "name": "Techno Kart",
       "alias": "Techno Kart",
-      "image": 'https://i.postimg.cc/cHLDf4WL/technokart.png',
+      "image": 'https://i.postimg.cc/9FRMhHK9/TECHNO-KART.png',
       "aboutEvent": "A motor sport where you need a open wheeled, four wheeled vehicle which will participate in the race.",
       "TeamSpecification":
       "3-5 members per team.",

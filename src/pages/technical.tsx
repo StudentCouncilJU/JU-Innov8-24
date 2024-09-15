@@ -7,7 +7,7 @@ export default function Technical() {
   const events = [
     {
       "alias": "CODE-O-MANIA",
-      "image": 'https://i.postimg.cc/c4VqGC8n/CODE-O-MANIA.png',
+      "image": 'https://i.postimg.cc/RCP6mR0k/CODE-O-MAINA.png',
       
       "aboutEvent": ["This event will be a coding contest in which you will be judged on the basis of your knowledge of any coding language. This event will be conducted in two rounds.",
         <br/>,
@@ -48,7 +48,7 @@ export default function Technical() {
     {
       "name": "HACKATHON",
       "alias": "HACKATHON",
-      "image": 'https://i.postimg.cc/HxSKZkgj/HACKTHON.png',
+      "image": 'https://i.postimg.cc/zBzvZbYD/HACKATHON.png',
       "aboutEvent": ["It is a 24-Hour event wherein a number of tracks will be provided to the participants and they have to build a solution around it. The primary goal of the hackathon is to foster creativity, innovation and development of new ideas.",
         <br/>,
         <br/>,
@@ -94,7 +94,7 @@ export default function Technical() {
     {
       "name": "GRAPHICON",
       "alias": "GRAPHICON",
-      "image": 'https://i.postimg.cc/tT2TBWJP/graphicon-poster.png',
+      "image": 'https://i.postimg.cc/s2R1mHnh/GRAPHICON.png',
       "aboutEvent": "This exciting competition is the perfect platform to showcase your creativity, innovation, and design skills. Whether you're a seasoned designer or a budding artist, this event encourages participants to push the boundaries of visual communication. Through various challenges, you'll get to express your unique style, explore design trends, and create impactful visuals. Get ready to turn your imagination into stunning graphics and compete with fellow designers for the top spot!",
       "TeamSpecification":" Only single participation is allowed ",
       "eventDetail": [ 
@@ -126,7 +126,7 @@ export default function Technical() {
     {
       "name": "CODE HUNT",
       "alias": "CODE HUNT",
-      "image": 'https://i.postimg.cc/wM7rSYq2/CODE-HUNT.png',
+      "image": 'https://i.postimg.cc/Z5NCrzLm/CODE-HUNT.png',
       "aboutEvent": "In this event we test your grasp on programming language through a series of questions about coding and finding an output. It is a competitive Time Bound game which consists of 4 knockout levels. In each level you have to solve a problem statement using your desired programming language and reach an output. After each round you will receive a clue of where to find your next problem statement. Level of questions after each round will increase.",
       "TeamSpecification":"A team may consist of maximum 2 participants and minimum 1 Participant.",
       "eventDetail": [""],
@@ -161,7 +161,7 @@ export default function Technical() {
     {
       "name": "GEN-AI QUIZ",
       "alias": "GEN-AI QUIZ",
-      "image": 'https://i.postimg.cc/DzPRGcpr/GEN-AI-QUIZ.png',
+      "image": 'https://i.postimg.cc/WbCdF1gS/gen-AI-QUIZ.png',
       "aboutEvent": "This interactive quiz will challenge your knowledge on AI concepts, tools, and innovations, while sparking creativity and curiosity.",
       "TeamSpecification":"Each team will have a minimum of 1 maximum of 3 players. Each Team will have one leader who will answer questions by discussing with his/her team.",
       "eventDetail": [

@@ -11,7 +11,7 @@ export default function Technical() {
       
   
       "alias": "BGMI",
-      "image": 'https://i.postimg.cc/CKgWd27M/BGMI.png',
+      "image": 'https://i.postimg.cc/TYpy3DLp/BGMI.png',
       "aboutEvent": "The BGMI LAN Event 2024 will be held in-person, bringing together top teams to compete in a structured, competitive environment.",
       "TeamSpecification":" A team may consist of a maximum of 4+1 participants. Students from different educational institutes can form a team.",
       "eventDetail": [
@@ -65,7 +65,7 @@ export default function Technical() {
     {
       "name": "VALORANT",
       "alias": "VALORANT",
-      "image": 'https://i.postimg.cc/X7ZMPdXW/valorant.png',
+      "image": 'https://i.postimg.cc/t4F4stXC/valorant.png',
       "aboutEvent":" The Valorant LAN Event 2024 will be held in-person, bringing together top teams to compete in a structured, competitive environment.",
      "TeamSpecification":" A team may consist of 5+1 participants. Students from different educational institutes can form a team.",
      
@@ -101,7 +101,7 @@ export default function Technical() {
     {
       "name": "TEKKEN",
       "alias": "TEKKEN",
-      "image": 'https://i.postimg.cc/P5ZgXHmF/tekken.png',
+      "image": 'https://i.postimg.cc/5Nht9kWR/tekken.png',
     
       "aboutEvent": "The Tekken LAN Event 2024 is a live, in-person tournament aimed at showcasing top-tier talent in Tekken.",
       "TeamSpecification":["Individual Entry",
