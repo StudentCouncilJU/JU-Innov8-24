@@ -11,7 +11,7 @@ export default function Technical() {
       
   
       "alias": "BGMI",
-      "image": 'https://i.postimg.cc/TYpy3DLp/BGMI.png',
+      "image": '',
       "aboutEvent": "The BGMI LAN Event 2024 will be held in-person, bringing together top teams to compete in a structured, competitive environment.",
       "TeamSpecification":" A team may consist of a maximum of 4+1 participants. Students from different educational institutes can form a team.",
       "eventDetail": [
