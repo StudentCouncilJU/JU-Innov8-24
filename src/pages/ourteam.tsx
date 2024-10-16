@@ -140,6 +140,14 @@ const teamDetails = [
        
 
     },
+    // {
+    //     name: 'Yashraj Singh Shekhawat',
+    //     image:'https://i.postimg.cc/QtMmc7fF/Pradyuman-Shrivastava.png',
+    //    year: "Hospitality Head",
+
+       
+
+    // },
     
    
 

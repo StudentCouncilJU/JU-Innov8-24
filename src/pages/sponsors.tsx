@@ -4,32 +4,38 @@ import Image from 'next/image'
 import NavMenu from '@/components/NavMenu'
 import { useRouter } from 'next/router'
 import NewNavBar from '@/components/NavBar'
-// const eventSponsors = [
-//     // {
-//     //     image: 'https://i.postimg.cc/KY5z3DFS/hushjammer.png'
-//     // },
-//     // {
-
-//     //     image: 'https://i.postimg.cc/W3W1Xph5/ashokasundari.png'
-//     // },
-//     // {
-//     //     image: 'https://i.postimg.cc/0jz23gSP/colourbar.png' 
-//     // },
-//     // {
-//     //     image: 'https://i.postimg.cc/50NtBQNH/liberty.png'
-//     // },
-//     // {
-//     //     image: 'https://i.postimg.cc/Vkn5mcVN/ramas.png'
-//     // },
-//     // {
-//     //     image: 'https://i.postimg.cc/m2ctp93C/thebodyshop.png'
-//     // },
+import { Link } from 'lucide-react'
+const eventSponsors = [
+    {
+        image: 'https://i.postimg.cc/3JsWDdC7/nav-india.jpg'
+    },
+    {
+        image: 'https://i.postimg.cc/k58Qt0tY/hack-quest.jpg'
+    },
+    {
+        image: 'https://i.postimg.cc/Kz0RKfQs/ms-technosoft.jpg' 
+    },
+    {
+        image: 'https://i.postimg.cc/pdP92CF4/Whats-App-Image-2024-10-16-at-13-04-18-5a403a92.jpg'
+    },
+    {
+        image: 'https://i.postimg.cc/qBFC82P6/Whats-App-Image-2024-10-16-at-13-03-17-438e1617.jpg'
+    },
+    {
+        image: 'https://i.postimg.cc/5tqHJbzJ/ixigo.jpg'
+    },
+    {
+        image: 'https://i.postimg.cc/W3NdbCmk/mood-makers.jpg'
+    },
+    {
+        image: 'https://i.postimg.cc/dVCkW8tL/hop-up.jpg'
+    },
    
     
   
 
   
-// ]
+]
 
   
 const handleEventsClick = () => {
@@ -57,17 +63,17 @@ const sponsors = () => {
                 <div className="mx-auto  px-2 py-2 lg:px-10 lg:pt-12 ">
                     <div className="container justify-center lg:max-w-[1300px]">
                         <div className="grid  grid-cols-1 md:grid-cols-2  lg:grid-cols-3 gap-4">
-                            {/* {eventSponsors.map((sponsor) => (
+                            {eventSponsors.map((sponsor) => (
                                 <div className=' p-3 justify-center flex rounded-3xl m-4'>
                                     <div>
                                         <Image className="h-auto max-w-full  rounded-xl transition-transform duration-300 transform hover:scale-105 cursor-pointer" width={300} height={300} src={sponsor.image} alt="" />
                                        
                                     </div>
                                 </div>
-                            ))} */}
+                            ))} 
                           
                         </div>
-                        <h1 className='text-white text-7xl text-center my-auto'>Coming Soon</h1>
+                        {/* <h1 className='text-white text-7xl text-center my-auto'>Coming Soon</h1> */}
                     </div>
                 </div>
             </div>

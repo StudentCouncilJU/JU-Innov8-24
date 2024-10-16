@@ -102,6 +102,15 @@ const Header: React.FC<HeaderProps> = ({ onRegisterClick }) => {
                       Register
                     </div>
                   </button>
+
+                  <button className="p-[3px] relative">
+                    <div className="absolute inset-0 bg-gradient-to-r from-[#380036] to-[#0CBABA] rounded-lg" />
+                    <div className="px-12 py-4 bg-black rounded-[6px] text-2xl relative group transition duration-200 text-white hover:bg-transparent">
+                      <Link href="./schedule.jpg" download>
+                        Schedule
+                      </Link>
+                    </div>
+                  </button>
                 </div>
               </div>
 

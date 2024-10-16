@@ -57,9 +57,9 @@ export default function Technical() {
      
       "coordinators":{"name":'Arpit Mina : 8905572157',"name2":'Harman Singh : 7357304047',"name3":'Bhawani Singh Rajawat : 7851074822'},
       "schedule": {
-        "day": "",
-        "venue": "",
-        "time": ""
+        "day": "18th October",
+        "venue": "DOME",
+        "time": "09:00am - 09:00pm"
       }
     },
     {
@@ -93,9 +93,9 @@ export default function Technical() {
      
       "coordinators":{"name":'Abhinav Jangid : 8955319132',"name2":'Fabiayan Makhdoomi : 8700110060',"name3":'Bhubaneswar : 7062632211'},
       "schedule": {
-        "day": "",
-        "venue": "",
-        "time": ""
+        "day": "18th October",
+        "venue": "DOME",
+        "time": "09:00am - 09:00pm"
       }
     },
     {
@@ -132,9 +132,9 @@ export default function Technical() {
       ],
       "coordinators":{"name":'Aadil Khan:  9128924050',"name2":'Kunal Mathur: 8949489937'},
       "schedule": {
-        "day": "",
-        "venue": "",
-        "time": ""
+        "day": "18th October",
+        "venue": "DOME",
+        "time": "09:00am - 09:00pm"
       }
     },
   ]
