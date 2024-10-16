@@ -37,13 +37,6 @@ const teamDetails = [
 
     },
     {
-        name: 'Keshav Khandelwal',
-        image: 'https://i.postimg.cc/15VWWps6/Keshav-Khandelwal.png',
-       year: "Software Head",
-
-       
-    },
-    {
         name: 'Mukund Verma',
         image: 'https://i.postimg.cc/Z5rwm495/Mukund-Verma.png',
          year: "E-Sports Head",
